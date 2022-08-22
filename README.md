@@ -1,5 +1,6 @@
 # Time-Series-Analysis
-Projects and/or exercises for Time Series Analysis.
+
+Box cox exercises for Time Series Analysis.
 
 Resources used:
 * Kaggle
